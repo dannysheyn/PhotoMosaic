@@ -1,8 +1,7 @@
 # PhotoMosaic
 This program get a 'main' image and an array of images and constructs the 'main' image from the array of images given.
-from:
-![Main Image To Mosiac](https://github.com/dannysheyn/PhotoMosaic/blob/master/filename.jpg&s=300)
 
 
-we get this: the program can get n number of picture as path from a file named 'pictures.txt'
-![Output Picture](https://github.com/dannysheyn/PhotoMosaic/blob/master/pic2.png&s=300)
+![Image of the MemoryGame](https://github.com/dannysheyn/MemoryGame/blob/master/MemoryGame.PNG)
+
+<img src="https://github.com/dannysheyn/MemoryGame/blob/master/MemoryGame.PNG" width="48">
